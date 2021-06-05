@@ -1,2 +1,2 @@
 # Farmacia
-controle de clientes e vedas
+controle de clientes e vendas
